@@ -1,0 +1,17 @@
+nav {
+  background-color: black;
+}
+.bg-dark {
+    background-color: black!important;
+}
+.navpic {
+  height: 100px;
+  width: 1000px;
+}
+.col-lg-12 {
+  background-color: black;
+}
+.icon {
+  height: 30px;
+  width: 30px;
+}
